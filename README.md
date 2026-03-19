@@ -68,7 +68,7 @@ The dataset contains 9,994 records including:
 
  📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 The Power BI dashboard provides:
 * Sales overview (KPIs)
