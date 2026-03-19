@@ -1,4 +1,4 @@
- Sales Data Analysis Project
+This project analyzes retail sales data to uncover insights on revenue, profitability, and product performance using SQL and Power BI. Sales Data Analysis Project
 
 📌 Project Overview
 
