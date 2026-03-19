@@ -67,6 +67,7 @@ The dataset contains 9,994 records including:
 📊 Dashboard
 
 The Power BI dashboard provides:
+Sales Dashboard Image.png
 
 * Sales overview (KPIs)
 * Regional performance
